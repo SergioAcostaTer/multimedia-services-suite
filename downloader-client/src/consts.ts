@@ -1,0 +1,60 @@
+export const videoExample = {
+  type: "video",
+  title: "Feid, ICON - FERXXO 151 (Official Video)",
+  id: "ww7UQTDsPEc",
+  url: "https://www.youtube.com/watch?v=ww7UQTDsPEc",
+  bestThumbnail: {
+    url: "https://i.ytimg.com/vi/ww7UQTDsPEc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTIdisB0cO766o3VvKL_BFRPFyjA",
+    width: 720,
+    height: 404,
+  },
+  thumbnails: [
+    {
+      url: "https://i.ytimg.com/vi/ww7UQTDsPEc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTIdisB0cO766o3VvKL_BFRPFyjA",
+      width: 720,
+      height: 404,
+    },
+    {
+      url: "https://i.ytimg.com/vi/ww7UQTDsPEc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ3A_j7MVnnSBPPRBnFrSTkhMVFw",
+      width: 360,
+      height: 202,
+    },
+  ],
+  isUpcoming: false,
+  upcoming: null,
+  isLive: false,
+  badges: ["New", "4K"],
+  author: {
+    name: "Feid",
+    channelID: "UCoMlNw7o21I7LqL4OsjSYAg",
+    url: "https://www.youtube.com/channel/UCoMlNw7o21I7LqL4OsjSYAg",
+    bestAvatar: {
+      url: "https://yt3.ggpht.com/GUW78kIdMM2mVjl-c1rkSD8DqNYSRZAfTUTie3j4xKFN6agTpdb9UiMDGwQB2yuoDpKB1a8QNn8=s88-c-k-c0x00ffffff-no-rj",
+      width: 68,
+      height: 68,
+    },
+    avatars: [
+      {
+        url: "https://yt3.ggpht.com/GUW78kIdMM2mVjl-c1rkSD8DqNYSRZAfTUTie3j4xKFN6agTpdb9UiMDGwQB2yuoDpKB1a8QNn8=s88-c-k-c0x00ffffff-no-rj",
+        width: 68,
+        height: 68,
+      },
+    ],
+    ownerBadges: ["Official Artist Channel"],
+    verified: true,
+  },
+  description: null,
+  views: 2403928,
+  duration: "3:48",
+  uploadedAt: "3 days ago",
+  qualities: [
+    "144p",
+    "240p",
+    "360p",
+    "480p",
+    "720p",
+    "1080p",
+    "1440p",
+    "2160p",
+  ],
+};
